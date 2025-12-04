@@ -5,5 +5,9 @@ AA126 Final Project. A Servo mechanism that unlocks your dorm room using a servo
 
 
 
+https://github.com/user-attachments/assets/c4985a2c-e40d-443e-8bbb-7db64b6617a5
+
+
+
 https://github.com/user-attachments/assets/feb25e9e-3096-41d5-b380-8a6e5d11dd24
 
